@@ -1,0 +1,1 @@
+add_executable("terminator.exe" "main.cpp")
