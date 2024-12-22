@@ -1,2 +1,3 @@
 # terminator
-embedded terminal assistant based on artificial intelligence
+
+embedded terminal assistant based on Chat GPT
