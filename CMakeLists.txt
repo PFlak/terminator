@@ -3,4 +3,6 @@ cmake_minimum_required(VERSION 3.0)
 project(Terminator)
 
 add_subdirectory("src")
-add_subdirectory("src/InputParser")
+
+
+include_directories("${PROJECT_SOURCE_DIR}/include")
